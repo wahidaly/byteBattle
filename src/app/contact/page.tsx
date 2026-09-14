@@ -104,7 +104,7 @@ export default function ContactPage() {
               {/* EMAIL */}
               <div>
                 <h3 className="font-semibold text-white">Email</h3>
-                <p>bvigoraj@gmail.com</p>
+                <p>alimdwahid83@gmail.com</p>
                 {/* <p>events@bytebattle.com</p> */}
               </div>
 
